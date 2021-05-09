@@ -1,15 +1,1 @@
-{
-    "githubUsername": "markuva",
-    "blogTitle": "无主之地",
-    "blogDescribe": "Welcom to mark's vlog",
-    "htmlTitle": "mark's vlog",
-    "fontColor": "#ffffff",
-    "useBackgroundImage": false,
-    "backgroundColorLeft": "#2690F9",
-    "backgroundColorRight": "#FC2D2D",
-    "audioUrl": "https://music.163.com/#/song?id=523030151",
-    "mini": false,
-    "webSites":[
-        {"name":"Bing" , "url":"https://www.bing.com/"}
-    ]
-}
+{"githubUsername":"markuva","blogTitle":"无主之地","blogDescribe":"Welcom to mark's vlog","htmlTitle":"mark's vlog","fontColor":"#ffffff","useBackgroundImage":false,"backgroundColorLeft":"#489FF5","backgroundColorRight":"#140202","audioUrl":"https://music.163.com/#/song?id=523030151","mini":false,"webSites":[{"name":"Bing","url":"https://www.bing.com/"}]}
